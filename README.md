@@ -72,7 +72,6 @@ uvicorn backend.main:app --reload --port 8000
 # From the project root
 streamlit run frontend/app.py
 ```
-🌐 Access the app at: **http://localhost:8501**
 
 ---
 
@@ -129,8 +128,8 @@ Update `"model": "mistral"` in requests
 
 ---
 
-## 📜 License
-MIT — Use, adapt, and share freely.
+## 📸 Working Screenshot
+[📂 View Screenshot Folder](https://drive.google.com/drive/folders/1OigJFAN2Tpw0qWdF94RRP4H2bpuH23ef?usp=sharing)
 
 ---
 
