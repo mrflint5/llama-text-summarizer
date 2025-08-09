@@ -120,14 +120,6 @@ Update `"model": "mistral"` in requests
 
 ---
 
-## 🏆 Why This Makes You Top 1%
-- 🌍 **Full-stack AI mastery** — model to UI  
-- 🚫 **No vendor lock-in**  
-- 📈 **Scales locally & privately**  
-- 🧠 **Architectural excellence** with decoupled layers  
-
----
-
 ## 📸 Working Screenshot
 [📂 View Screenshot Folder](https://drive.google.com/drive/folders/1OigJFAN2Tpw0qWdF94RRP4H2bpuH23ef?usp=sharing)
 
